@@ -77,16 +77,3 @@ enabling early detection and maintenance scheduling.
 
 3. Open the notebook:
    jupyter notebook notebooks/ML_PROJECT.ipynb
-
----
-
-## Project Structure
-heat-exchanger-fouling-prediction/
-├── data/
-│   └── dataset.csv
-├── notebooks/
-│   └── ML_PROJECT.ipynb
-├── presentation/
-│   └── ML_PROJECT.pptx
-├── requirements.txt
-└── README.md
