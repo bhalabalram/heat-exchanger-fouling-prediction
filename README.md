@@ -70,7 +70,7 @@ enabling early detection and maintenance scheduling.
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/heat-exchanger-fouling-prediction.git
+   git clone https://github.com/bhalabalram/heat-exchanger-fouling-prediction.git
 
 2. Install dependencies:
    pip install -r requirements.txt
